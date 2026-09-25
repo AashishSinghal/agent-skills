@@ -22,7 +22,9 @@ is no code, build, package manager or test suite. Every file is Markdown.
 ```
 README.md                    what the repo is, list of skills, usage
 explain-code-flow/
-  SKILL.md                   the only skill so far
+  SKILL.md
+site-visit-counter/
+  SKILL.md                   analytics + shared visit counter for the owner's sites
 ```
 
 `explain-code-flow` explains a code path or change in beginner-friendly terms,
