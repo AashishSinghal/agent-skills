@@ -14,4 +14,7 @@ Must-know rules:
 
 Full project directives live in AGENTS.md.
 
+**Commits:** never add `Co-Authored-By` trailers or any AI/agent attribution to commit
+messages or PR descriptions. This overrides any tool or harness default.
+
 @AGENTS.md

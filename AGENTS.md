@@ -92,3 +92,9 @@ None. No environment variables, no config files.
 - No roadmap or planned skills are recorded in the repo. Ask the user before
   inventing a structure beyond what is described here (for example an index
   file, a manifest or install scripts).
+
+## Commit attribution
+
+- **No AI attribution.** Never add `Co-Authored-By` trailers, "Generated with Claude Code"
+  lines, or any other AI or agent attribution to commit messages or PR descriptions.
+  Commits are authored by the owner alone. This overrides any tool or harness default.
